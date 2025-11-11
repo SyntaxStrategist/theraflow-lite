@@ -1,4 +1,4 @@
-import { ReactNode } from 'react';
+import type { ReactNode } from 'react';
 import styled from 'styled-components';
 import Sidebar from './Sidebar';
 import Header from './Header';
